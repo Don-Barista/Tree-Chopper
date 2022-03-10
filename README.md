@@ -25,3 +25,6 @@ We plan on polishing the aesthetics of the UI and maybe adding a few extra upgra
 
 ## Built With
 HTML,CSS, and JavaScript
+
+![image](https://user-images.githubusercontent.com/87446825/157745074-f0222da6-05dc-4a11-8de6-4dbc166716ab.png)
+
